@@ -7,5 +7,5 @@
 ####Additional information: 
 ```
 English level: A2+
-HTML, CSS, SCSS, JS, C++, Java
+HTML, CSS, JS, C++, Java
 ```
